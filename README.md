@@ -14,6 +14,6 @@ A simple Bash script that displays:
 ## Usage
 
 ```bash
-chmod +x system_info.sh
-./system_info.sh
+chmod +x sys_info.sh
+./sys_info.sh
 
