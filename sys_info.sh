@@ -10,4 +10,6 @@ uptime
 echo ::
 echo "Disk Usage:"
 df -h
+echo "Path of Directory: $(pwd)"
+echo "IP Address: $(hostname -I)"
 
