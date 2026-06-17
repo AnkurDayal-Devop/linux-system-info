@@ -12,4 +12,6 @@ echo "Disk Usage:"
 df -h
 echo "Path of Directory: $(pwd)"
 echo "IP Address: $(hostname -I)"
+echo "Logged In Users:"
+who
 
