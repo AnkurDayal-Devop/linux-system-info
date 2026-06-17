@@ -7,6 +7,9 @@ A simple Bash script that displays:
 - Kernel Version
 - Uptime
 - Disk Usage
+- Path
+- IP Address
+- Who is User
 
 ## Usage
 
