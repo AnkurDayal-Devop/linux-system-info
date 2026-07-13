@@ -11,7 +11,6 @@ A simple Bash script that displays useful details about the current Linux system
 - Uptime
 - Memory Usage (`free -h`)
 - Disk Usage (`df -h`)
-- Directory Size (`du -h .`)
 - Current Working Directory
 - IP Address
 - Logged-in Users
