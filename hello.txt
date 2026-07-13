@@ -1,7 +1,0 @@
-hello this is the new file in existing repo
-<<<<<<< HEAD
-second line
-third line
-=======
-second line with new text
->>>>>>> 6c93658 (added text in same line)
