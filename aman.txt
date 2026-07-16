@@ -1,3 +1,7 @@
 hello this is aman
 second line of aman changed
 third line of aman changed
+<<<<<<< HEAD
+=======
+
+>>>>>>> e58cbf87ffb5777824ce77eb71023b7fdc13d80b
