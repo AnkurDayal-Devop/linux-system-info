@@ -3,8 +3,5 @@ second line of aman changed
 third line of aman changed
 fourth
 fifth
-<<<<<<< HEAD
 sixth
-=======
 seventh
->>>>>>> 85fc5d0 (seventh)
